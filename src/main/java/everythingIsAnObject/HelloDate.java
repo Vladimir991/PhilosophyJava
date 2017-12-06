@@ -1,4 +1,4 @@
-package EverythingIsAnObject;
+package everythingIsAnObject;
 
 import java.util.Date;
 
