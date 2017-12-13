@@ -16,4 +16,8 @@ public class Print {
     public static void printnb(Object object) {
         System.out.println(object);
     }
+
+    public static void printt(Object object) {
+        System.out.print(object);
+    }
 }
