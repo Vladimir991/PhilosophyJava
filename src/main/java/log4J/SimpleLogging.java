@@ -11,8 +11,6 @@ public class SimpleLogging {
     private static Logger logger = LoggerFactory.getLogger(SimpleLogging.class);
 
     public static void main(String[] args) {
-
-        System.out.println("Заказ оформлен!");
         logger.info("Hello this is an info message!");
     }
 }
